@@ -1,0 +1,11 @@
+# Raw and processed data - download with scripts/download_data.sh
+data/
+
+# Python environments
+.venv/
+model/venv/
+__pycache__/
+
+# Jupyter
+.ipynb_checkpoints/
+model/Untitled*.ipynb

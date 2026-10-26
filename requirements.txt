@@ -1,0 +1,7 @@
+# Tested with Python 3.14. pandas is held below 3.0 so Session 1's printed
+# dtypes still match the write-up (pandas 3 reports text columns as `str`).
+pandas>=2.3,<3
+numpy>=2.0
+pyarrow>=21
+matplotlib>=3.10
+jupyterlab>=4.4
